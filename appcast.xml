@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Minder</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Thu, 12 Nov 2026 10:48:15 +0100</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/vanabbe/minder-releases/releases/download/v0.1.0-4/Minder-0.1.0-4.dmg" length="1463412" type="application/octet-stream" sparkle:edSignature="Cxlc1CJEGiipxj4PV3JBV+RR75MjlLH56J96TsYmLYY4kpyHItO2CBWtTHU+MFt1te4S7cNa71U5yvCHM/reDg=="/>
+        </item>
+    </channel>
+</rss>
