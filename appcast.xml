@@ -4,6 +4,15 @@
         <title>Minder</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Thu, 12 Nov 2026 22:15:39 +0100</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/vanabbe/minder-releases/releases/download/v0.1.0-10/Minder-0.1.0-10.dmg" length="1868361" type="application/octet-stream" sparkle:edSignature="6WdMvNT5/Iwwsvi8Y3PLhVCnRSUMDCfCDcjT78vezTKf9IHpbrGnQ0lVZfQOeaBYR+5R84nRtKV/H7f+iGHHAw=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Thu, 12 Nov 2026 10:50:06 +0100</pubDate>
             <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
